@@ -1,5 +1,5 @@
 # Square Root Formula
-A new mathematical way of obtaining xˆ2, homoiconically, where x is the square root in the formula
+A new mathematical way of obtaining x^2, homoiconically, where x is the square root in the formula
 
 
 For a given `x`, the identity is:
